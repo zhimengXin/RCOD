@@ -16,9 +16,7 @@ The first version of the datasets contain category and bounding box annotations.
 | NC4K-D | 37 | 2863 | 1227 |
 | CAMO-D | 43 | 744 | 497 |
 
-## Benchmarks on COD10K-D, NC4K-D, and CAMO-D datasets (First Version) 
-
-## Performance Comparison on COD10K-D, NC4K-D, and CAMO-D Datasets
+## Benchmarks of GLIP and Groudning DINO on COD10K-D, NC4K-D, and CAMO-D datasets (First Version) 
 
 **Caption**: Performance of various detection methods on COD10K-D, NC4K-D, and CAMO-D datasets. The results for a single seed are presented here. The paper presents 10 random seed results.
 
